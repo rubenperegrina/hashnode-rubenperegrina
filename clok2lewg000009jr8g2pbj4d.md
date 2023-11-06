@@ -4,7 +4,7 @@ datePublished: Sat Nov 04 2023 13:18:23 GMT+0000 (Coordinated Universal Time)
 cuid: clok2lewg000009jr8g2pbj4d
 slug: handling-errors-in-angular-with-retry-operator
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-Cmz06-0btw/upload/57af27957b8c78feb8878c92a42f0ba9.jpeg
-tags: angularjs, typescript, rxjs
+tags: angularjs, web-development, typescript, rxjs, frontend-development
 
 ---
 
