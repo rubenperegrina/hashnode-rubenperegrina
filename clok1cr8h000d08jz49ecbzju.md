@@ -13,7 +13,7 @@ tags: angularjs, typescript
 When developing Angular applications, one of the key considerations is how to efficiently load and manage modules. How we handle module loading can have a significant impact on user experience and overall performance. In this post, we'll explore various module loading strategies in Angular and provide practical examples for each of them.
 
 <div data-node-type="callout">
-<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-emoji">🚀</div>
 <div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/angular-prefetching" style="pointer-events: none">See the article code on GitHub</a></div>
 </div>
 
@@ -221,6 +221,6 @@ In summary, Angular offers several module loading strategies to optimize user ex
 Explore these strategies and choose the one that best suits your requirements!
 
 <div data-node-type="callout">
-<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-emoji">🚀</div>
 <div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/angular-prefetching" style="pointer-events: none">See the article code on GitHub</a></div>
 </div>
