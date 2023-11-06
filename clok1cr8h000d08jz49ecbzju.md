@@ -6,7 +6,7 @@ datePublished: Sat Nov 04 2023 12:43:40 GMT+0000 (Coordinated Universal Time)
 cuid: clok1cr8h000d08jz49ecbzju
 slug: angular-module-loading-strategies-optimizing-user-experience
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jf1EomjlQi0/upload/5ac9089e14179f10c0919f8e382740c0.jpeg
-tags: angularjs, typescript
+tags: angularjs, web-development, typescript, frontend-development
 
 ---
 
