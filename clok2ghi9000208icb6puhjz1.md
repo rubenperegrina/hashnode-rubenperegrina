@@ -4,7 +4,7 @@ datePublished: Sat Nov 04 2023 13:14:34 GMT+0000 (Coordinated Universal Time)
 cuid: clok2ghi9000208icb6puhjz1
 slug: exploring-the-essentials-typescript-utility-types
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9vQG6v1md1s/upload/527401bbc8b8c5aec503f47bea0adb69.jpeg
-tags: typescript
+tags: web-development, typescript, frontend-development
 
 ---
 
