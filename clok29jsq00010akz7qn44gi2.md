@@ -10,7 +10,10 @@ tags: angularjs, typescript, ngrx, vscode-cjevho8kk00bo1ss2lmqqjr51
 
 When working with NgRx it is common to have to go to the [official documentation](https://ngrx.io/guide/store) to copy reducers or sample actions so that we don't have to write them by hand, there is a better way to save time.
 
-%[https://github.com/rubenperegrina/vscode-ngrx-snippets] 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/vscode-ngrx-snippets" style="pointer-events: none">See the article code on GitHub</a></div>
+</div>
 
 ## **Adding our own snippets**
 
@@ -112,4 +115,7 @@ Once we have saved our snippets in the VSCdode user configuration, it is as easy
 
 In summary, Ngrx snippets in Visual Studio Code expedite development, diminish errors, and foster consistency in projects. They are valuable tools for developers of all levels, enhancing code quality and providing flexibility to cater to specific needs. Incorporating snippets into your workflow can be a smart choice for optimizing your Ngrx productivity
 
-%[https://github.com/rubenperegrina/vscode-ngrx-snippets]
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/vscode-ngrx-snippets" style="pointer-events: none">See the article code on GitHub</a></div>
+</div>
