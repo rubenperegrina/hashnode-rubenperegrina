@@ -11,7 +11,7 @@ tags: angularjs, typescript
 Error handling is a critical aspect of web application development, and Angular provides us with powerful tools to manage errors effectively. In this article, we will dive into the world of `HttpStatusCode` in Angular HttpClient, exploring how it can streamline error management and provide `robust type safety`. You will not only learn how to handle errors efficiently but also discover how to offer clear and meaningful error messages to `enhance the user experience`.
 
 <div data-node-type="callout">
-<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-emoji">🚀</div>
 <div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/HttpStatusCode" style="pointer-events: none">See the article code on GitHub</a></div>
 </div>
 
@@ -100,6 +100,6 @@ Here are some best practices for using HttpStatusCode effectively in the Angular
 The `HttpStatusCode` object in the Angular HttpClient is a valuable tool for error handling and preventing typing errors when interacting with web services. By using it effectively, we can provide descriptive messages to users and increase the robustness of our application. Use this feature to provide a better user experience and avoid unpleasant surprises when unexpected errors occur.
 
 <div data-node-type="callout">
-<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-emoji">🚀</div>
 <div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/HttpStatusCode" style="pointer-events: none">See the article code on GitHub</a></div>
 </div>
