@@ -10,7 +10,10 @@ tags: angularjs, typescript, rxjs
 
 Sometimes HTTP requests fail due to temporary issues such as intermittent network connections or server problems. To deal with these issues effectively, you can use the [RxJs retry operator](https://rxjs.dev/api/operators/retry) within an `Angular interceptor`. In this article, we'll explore how to use this operator in an interceptor to improve error handling in your Angular applications.
 
-%[https://github.com/rubenperegrina/retry-interceptor] 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/retry-interceptor" style="pointer-events: none">See the article code on GitHub</a></div>
+</div>
 
 ## **Explanation:**
 
@@ -49,4 +52,7 @@ export const appConfig: ApplicationConfig = {
 
 The RxJS retry operator is a valuable tool when used in an Angular interceptor to automatically `handle failed HTTP requests`. This increases the reliability of your applications by making them more resilient to temporary network or server issues. By implementing this approach, you can build more robust Angular applications that provide a more robust user experience.
 
-%[https://github.com/rubenperegrina/retry-interceptor]
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">🔗</div>
+<div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/retry-interceptor" style="pointer-events: none">See the article code on GitHub</a></div>
+</div>
