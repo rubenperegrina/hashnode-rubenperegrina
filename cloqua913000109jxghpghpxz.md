@@ -8,7 +8,7 @@ tags: angularjs, web-development, angular, angular-2, frontend-development
 
 ---
 
-One of the new features of Angular 17 is the integration with the **View Transitions API**, this feature makes it easy to transition the DOM between pages making a nice transition for the user.
+One of the new features of [Angular 17](https://rubenperegrina.com/whats-new-in-angular-17) is the integration with the **View Transitions API**, this feature makes it easy to transition the DOM between pages making a nice transition for the user.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">🚀</div>
@@ -86,3 +86,11 @@ This is a game changer for Angular, we're jumping into the new wave of applicati
 <div data-node-type="callout-emoji">🚀</div>
 <div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rubenperegrina/angular-view-transitions" style="pointer-events: none"><strong>See the article code on GitHub</strong></a></div>
 </div>
+
+**Related articles:**
+
+* [Angular.dev - The future home for Angular Development](https://rubenperegrina.com/angulardev-the-future-home-for-angular-development)
+    
+* [What's new in Angular 17?](https://rubenperegrina.com/whats-new-in-angular-17)
+    
+* [How does Angular's New Control Flow work?](https://rubenperegrina.com/how-does-angulars-new-control-flow-work)
