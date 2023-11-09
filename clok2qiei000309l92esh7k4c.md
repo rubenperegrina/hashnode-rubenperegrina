@@ -1,6 +1,6 @@
 ---
 title: "Typing http error response with HttpStatusCode in Angular"
-datePublished: Sat Nov 04 2023 13:22:21 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Nov 04 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clok2qiei000309l92esh7k4c
 slug: typing-http-error-response-with-httpstatuscode-in-angular
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/52jRtc2S_VE/upload/725564a0e3f8c0226a0b43205bbc9d50.jpeg
