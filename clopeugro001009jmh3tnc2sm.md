@@ -66,3 +66,11 @@ If you're currently working with a previous version of Angular, rest assured tha
 ## Conclusion
 
 It's an exciting time for Angular developers. With Angular 17 on the horizon, you can now dive into the playground, follow step-by-step tutorials on [angular.dev](http://Angular.dev), or explore the new API at your own pace. The future of Angular development is here, and [angular.dev](http://Angular.dev) is your go-to platform for all things Angular.
+
+**Related articles:**
+
+* [Smoother navigation with Angular 17's view transitions API](https://rubenperegrina.com/smoother-navigation-with-angular-17s-view-transitions-api)
+    
+* [What's new in Angular 17?](https://rubenperegrina.com/whats-new-in-angular-17)
+    
+* [How does Angular's New Control Flow work?](https://rubenperegrina.com/how-does-angulars-new-control-flow-work)
