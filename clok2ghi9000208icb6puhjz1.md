@@ -1,6 +1,6 @@
 ---
 title: "Exploring the essentials TypeScript utility types"
-datePublished: Thu Nov 02 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Nov 01 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clok2ghi9000208icb6puhjz1
 slug: exploring-the-essentials-typescript-utility-types
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9vQG6v1md1s/upload/527401bbc8b8c5aec503f47bea0adb69.jpeg
