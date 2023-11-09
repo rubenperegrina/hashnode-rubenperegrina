@@ -1,6 +1,6 @@
 ---
 title: "VSCode snippets for NgRx"
-datePublished: Sat Nov 04 2023 13:09:10 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Nov 02 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clok29jsq00010akz7qn44gi2
 slug: vscode-snippets-for-ngrx
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/K4c8RymNeu8/upload/fe3be41a090bf2bc5ead838c9365d15c.jpeg
