@@ -4,7 +4,7 @@ datePublished: Fri Nov 10 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clos9q3kh000h09k29aqxazez
 slug: mastering-inject-in-angular-a-powerful-resource-for-dependency-injection
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/lPjeFCIFJwk/upload/bb60aba42dfa0b7f5410a3f82a8eb7f5.jpeg
-tags: angularjs, web-development, angular, angular-2, frontend-development
+tags: angularjs, web-development, angular, typescript, frontend-development
 
 ---
 
