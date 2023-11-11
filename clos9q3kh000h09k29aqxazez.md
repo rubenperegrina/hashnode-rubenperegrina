@@ -37,7 +37,7 @@ export class UserComponent implements OnInit {
 
 As you can see we don't need to inject our dependencies in the constructor, this means that we don't need to have a class to use it, we can use it in functions.
 
-**Benefits of** `inject()`**:** Compared to other dependency injection methods in Angular, `inject()` offers several benefits:
+**Benefits of** `inject()`: Compared to other dependency injection methods in Angular, `inject()` offers several benefits:
 
 * Greater code clarity.
     
