@@ -12,7 +12,7 @@ tags: angularjs, web-development, angular, typescript, frontend-development
 
 Angular is a web application development framework built on the **principle of dependency injection**. Dependency injection is a fundamental technique that allows developers to **efficiently manage a component's dependencies**. In this article, we will take a deep dive into Angular's `inject()` function, which was introduced in Angular 14 and it's powerful tool for achieving **flexible** and **effective** dependency injection.
 
-## **What is** inject()?
+## What is inject()?
 
 The `inject()` function is a key feature of Angular that is used to obtain instances of services or dependencies within a component or service. Allows dependency injection to be more concise and clear than other methods. Here's a simple example of how `inject()` is used:
 
