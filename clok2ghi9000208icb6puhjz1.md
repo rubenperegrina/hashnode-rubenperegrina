@@ -1,5 +1,7 @@
 ---
 title: "Exploring the essentials TypeScript utility types"
+seoTitle: "Exploring the essentials TypeScript utility types"
+seoDescription: "Most popular and commonly used TypeScript utility types for Angular applications, partial, required, readonly, pick, omit, record"
 datePublished: Wed Nov 01 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clok2ghi9000208icb6puhjz1
 slug: exploring-the-essentials-typescript-utility-types
