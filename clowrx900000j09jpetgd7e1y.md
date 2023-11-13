@@ -1,5 +1,7 @@
 ---
 title: "Creating a custom RxJS operator for live search"
+seoTitle: "Optimize Angular Live Search: Custom RxJS Operator"
+seoDescription: "Elevate Angular performance with a custom RxJS live search operator. Enhance responsiveness, minimize redundant requests, and set smart character filters."
 datePublished: Mon Nov 13 2023 10:40:40 GMT+0000 (Coordinated Universal Time)
 cuid: clowrx900000j09jpetgd7e1y
 slug: creating-a-custom-rxjs-operator-for-live-search
