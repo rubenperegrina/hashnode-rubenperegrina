@@ -1,7 +1,7 @@
 ---
 title: "Angular module loading strategies, optimizing user experience"
 seoTitle: "Angular module loading strategies, optimizing user experience"
-seoDescription: "How to implement a module preloading strategy"
+seoDescription: "How to implement a module preloading strategy, lazy loading in angular, lazy loading module, child module, routing module, lazy loaded, children, child root"
 datePublished: Tue Oct 31 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clok1cr8h000d08jz49ecbzju
 slug: angular-module-loading-strategies-optimizing-user-experience
