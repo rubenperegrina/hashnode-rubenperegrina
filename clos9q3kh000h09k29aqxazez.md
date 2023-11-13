@@ -1,5 +1,7 @@
 ---
 title: "Mastering inject() in Angular: A powerful resource for dependency injection"
+seoTitle: "Angular Mastery: Mastering inject() for Dependency"
+seoDescription: "Unlock Angular's inject() for efficient dependency injection. Enhance code clarity, simplify refactoring, and achieve conditional injection."
 datePublished: Fri Nov 10 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clos9q3kh000h09k29aqxazez
 slug: mastering-inject-in-angular-a-powerful-resource-for-dependency-injection
