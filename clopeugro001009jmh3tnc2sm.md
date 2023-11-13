@@ -1,5 +1,7 @@
 ---
 title: "Angular.dev - The future home for Angular Development"
+seoTitle: "Learn Angular 17 Features: Angular.dev Guide"
+seoDescription: "Learn Angular 17's features at Angular.dev: tutorials, updated docs, hands-on playground. Discover control flow, SSR, signals, etc"
 datePublished: Wed Nov 08 2023 07:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clopeugro001009jmh3tnc2sm
 slug: angulardev-the-future-home-for-angular-development
