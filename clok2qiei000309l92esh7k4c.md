@@ -1,5 +1,7 @@
 ---
 title: "Typing http error response with HttpStatusCode in Angular"
+seoTitle: "How to type error response in Angular, learn how to type http errors"
+seoDescription: "Learn how to type Angular httpClien errors in TypeScript, httpStatusCode, enum, 200, 400, 500, RxJS, Observable, API"
 datePublished: Sat Nov 04 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clok2qiei000309l92esh7k4c
 slug: typing-http-error-response-with-httpstatuscode-in-angular
