@@ -1,5 +1,7 @@
 ---
 title: "Handling errors in Angular with retry operator"
+seoTitle: "learn how to handle errors in Angular with retry operator rxjs"
+seoDescription: "Learn how to handle failed HTTP request with RxJS retry operator in Angular with interceptors automatically"
 datePublished: Sat Nov 04 2023 13:18:23 GMT+0000 (Coordinated Universal Time)
 cuid: clok2lewg000009jr8g2pbj4d
 slug: handling-errors-in-angular-with-retry-operator
