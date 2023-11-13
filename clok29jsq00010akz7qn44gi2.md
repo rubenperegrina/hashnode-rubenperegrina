@@ -1,5 +1,7 @@
 ---
 title: "VSCode snippets for NgRx"
+seoTitle: "Best VSCode snippets for NgRx"
+seoDescription: "Best VSCode snippets for boost productivity in NgRx applications, actions, reduces, redux, rxjs, state management"
 datePublished: Thu Nov 02 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clok29jsq00010akz7qn44gi2
 slug: vscode-snippets-for-ngrx
