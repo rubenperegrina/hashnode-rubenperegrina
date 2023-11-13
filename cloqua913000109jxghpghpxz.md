@@ -1,5 +1,7 @@
 ---
 title: "Smoother navigation with Angular 17's view transitions API"
+seoTitle: "Revolutionize Navigation: Angular 17's View Transitions API"
+seoDescription: "Elevate your app's navigation with Angular 17's View Transitions API. Make page transitions smooth and enhance user experience. Explore easy implementation"
 datePublished: Thu Nov 09 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: cloqua913000109jxghpghpxz
 slug: smoother-navigation-with-angular-17s-view-transitions-api
