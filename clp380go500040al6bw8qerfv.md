@@ -132,6 +132,6 @@ As you can see the results are like magic, we **improved** a lot the **user expe
     
 * [What's new in Angular 17?](https://rubenperegrina.com/whats-new-in-angular-17)
     
-* [**How does Angular's New Control Flow work?**](https://rubenperegrina.com/how-does-angulars-new-control-flow-work)
+* [How does Angular's New Control Flow work?](https://rubenperegrina.com/how-does-angulars-new-control-flow-work)
     
-* [**Smoother navigation with Angular 17's view transitions API**](https://rubenperegrina.com/smoother-navigation-with-angular-17s-view-transitions-api)
+* [Smoother navigation with Angular 17's view transitions API](https://rubenperegrina.com/smoother-navigation-with-angular-17s-view-transitions-api)
