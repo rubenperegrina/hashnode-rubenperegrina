@@ -128,7 +128,7 @@ As you can see the results are like magic, we **improved** a lot the **user expe
 
 **Related articles:**
 
-* [**Angular.dev**](http://Angular.dev) [**\- The future home for Angular Development**](https://rubenperegrina.com/angulardev-the-future-home-for-angular-development)
+* [Angular.dev](http://Angular.dev) [\- The future home for Angular Development](https://rubenperegrina.com/angulardev-the-future-home-for-angular-development)
     
 * [What's new in Angular 17?](https://rubenperegrina.com/whats-new-in-angular-17)
     
