@@ -12,7 +12,7 @@ Angular provides effective tools for developing robust applications, however, it
 
 Since Angular 16 we have a new way to unsubscribe from observables. We use an RxJS pipe called **takeUntilDestroy**. This saves us from having to manually unsubscribe in the component's OndDestry.
 
-## What **is** takeUntilDestroy, and why is it useful?
+## What is takeUntilDestroy, and why is it useful?
 
 In Angular application development, it's typical to employ observables to manage asynchronous data streams. Nonetheless, when a component is destroyed (e.g. due to a route change), appropriately disposing of subscriptions is vital to avoid memory leaks. That's where **takeUntilDestroy** comes in useful.
 
