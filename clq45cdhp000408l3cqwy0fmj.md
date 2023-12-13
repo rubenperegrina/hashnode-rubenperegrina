@@ -14,7 +14,7 @@ Nearly all mid to large-sized applications require data management to ensure acc
 
 Angular, being a robust framework, offers tools and libraries for streamlined state management. In this post, we will explore well-known state management solutions, customized to suit particular requirements in Angular applications.
 
-### **1.** Stateful Services (Subjects)
+## **1.** Stateful Services (Subjects)
 
 Using the power of Subjects, **Stateful Services** provide a simple way to manage state within Angular. By exploring this way, developers can easily manage the state of the application just using **RxJS**, you don't need to install any third-party libraries and easily to use but has some limitations instances others.
 
@@ -50,7 +50,7 @@ export class MyComponent implements OnInit {
 }
 ```
 
-### **2.** NgRx
+## **2.** NgRx
 
 NgRx Global Store is a robust state management solution inspired by **Redux**. It centralizes state and actions, providing a predictable and scalable approach to managing application data.
 
@@ -87,9 +87,9 @@ export class MyComponent {
 }
 ```
 
-### **3.** Ngxs
+## **3.** NGXS
 
-Ngxs is a state management library that simplifies complex state management scenarios. It combines the simplicity of **Redux with Angular's reactive approach**, providing a convenient solution for developers.
+NGXS is a state management library that simplifies complex state management scenarios. It combines the simplicity of **Redux with Angular's reactive approach**, providing a convenient solution for developers.
 
 ```typescript
 // State
@@ -143,7 +143,7 @@ This example uses NGXS to define a simple state with a message. It also includes
 \- Elf  
 \- Custom state management
 
-### Conclusion
+## Conclusion
 
 Choosing the appropriate state management option for your Angular app relies on the needs of your project. Whether you prefer the easy Stateful Services or the adaptable **NgRx**, grasping these tools helps Angular developers create strong and sustainable applications.
 
