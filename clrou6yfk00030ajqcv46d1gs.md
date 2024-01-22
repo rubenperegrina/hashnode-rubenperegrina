@@ -67,7 +67,7 @@ ng build --help
 
 Quick guide for generating components in Angular:
 
-| Command | Description |
+| **Command** | **Description** |
 | --- | --- |
 | ng g component \[name\] ng g c \[name\] | Create a new component, you can put the route also, \[/path/name\] |
 | ng g directive \[name\] ng g d \[name\] | Create a new directive. |
