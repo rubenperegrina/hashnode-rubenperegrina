@@ -237,11 +237,11 @@ Yes, this is only the basics, with this you are ready to create your first Angul
     
 * [**HttpClient**](https://angular.dev/api/common/http/HttpClient)
     
-* [Testing](https://angular.dev/guide/testing)
+* [**Testing**](https://angular.dev/guide/testing)
     
-* [Signals](https://angular.dev/guide/signals)
+* [**Signals**](https://angular.dev/guide/signals)
     
-* [Deferrable Views](https://angular.dev/guide/defer)
+* [**Deferrable Views**](https://angular.dev/guide/defer)
     
 
 ## Conclusion
