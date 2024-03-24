@@ -28,7 +28,7 @@ We can expect a merge between **Angular** and **Wiz**, adding all the Wiz featur
 
 There's not much information at the moment, that's the official news, but I want to speculate a bit...
 
-I think that this is going to be a huge improvement for Angular, in terms of marketing and performance, Angular it's from Google but we don't know in which products they used, Angular has the potential to be used in many sites and many companies can adopt it but Google has not done the marketing for it.
+I think that this is going to be a huge improvement for Angular, in terms of marketing and performance, Angular it's from Google but we don't know in which products they used, Angular has the potential to be used in many sites and many companies can adopt it, but Google has not done the marketing for it.
 
 Now if Google starts this merge and starts to use Angular in more sites, Angular it's going to have a big impact and it's going to be more popular.
 
@@ -38,7 +38,7 @@ In the other site with this merge maybe Angular will change a little bit its syn
 
 ## Conclusion
 
-It's a great news that Google will do this, I hope it will be a next step for Angular and the community, but we have time to see it, we will wait for the next news about it, I will attach some references about it.
+It's a great news that Google will do this, I hope it will be a next step for Angular and the community, but we need time to have a look at it, we will wait for the next news about it, I will attach some references about it.
 
 Do you like this change? Do you already know Wiz? Let me know in the comments!
 
