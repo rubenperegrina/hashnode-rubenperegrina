@@ -24,7 +24,7 @@ Wiz had been used for a while, but we don't know much of them because it is not 
 
 ## What we can expect?
 
-We can expect a merge between **Angular** and **Wiz**, adding all the Wiz features in Angular, mainly the **resumability**. With this feature Angular will increase its performance a lot.
+We can expect a merge between **Angular** and **Wiz**, adding all the Wiz features in Angular, mainly the **resumability**. With this feature Angular will increase it's performance a lot.
 
 There's not much information at the moment, that's the official news, but I want to speculate a bit...
 
