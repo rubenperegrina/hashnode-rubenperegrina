@@ -20,7 +20,7 @@ In tis conference, **Minko Gechev** and **Jeremy Elbourn**, both working in the 
 
 Wiz is a front-end internal framework made by Google, they used in many products, one of them are: **Google Drive, Google Photos, Google Maps, YouTube, Gmail**.
 
-Wiz had been used for a while, but we don't know mucho of them because it is not open source, we know that they have the **Signals** of Angular and a **resumability** feature.
+Wiz had been used for a while, but we don't know much of them because it is not open source, we know that they have the **Signals** of Angular and a **resumability** feature.
 
 ## What we can expect?
 
