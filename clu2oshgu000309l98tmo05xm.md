@@ -8,19 +8,19 @@ tags: framework, frontend, angularjs, angular, angular-2, webdev, google, fronte
 
 ---
 
-What a game changer! Yes, the title is true, this is what we saw at the [ng-conf](https://ng-conf.org/).
+What a game-changer! Yes, the title is true, this is what we saw at the [ng-conf](https://ng-conf.org/).
 
-The [ng-conf](https://ng-conf.org/) is an annual conference focused on Angular. It brings together experts, developers and enthusiasts to discuss the latest Angular trends and practices. Highlights include talks, workshops and panel discussions on new features, best practices and the future of Angular. It's a key event for staying up to date in the world of web development.
+The [ng-conf](https://ng-conf.org/) is an annual conference focused on Angular. It brings together experts, developers, and enthusiasts to discuss the latest Angular trends and practices. Highlights include talks, workshops, and panel discussions on new features, best practices, and the future of Angular. It's a key event for staying up to date in the world of web development.
 
-In tis conference, **Minko Gechev** and **Jeremy Elbourn**, both working in the Angular team, present the news that Angular will be merged with Wiz, Google's internal framework.
+In this conference, **Minko Gechev** and **Jeremy Elbourn**, both working in the Angular team, present the news that Angular will be merged with Wiz, Google's internal framework.
 
 %[https://www.youtube.com/watch?v=nIBseTi6RVk&ab_channel=ng-conf] 
 
 ## What is Wiz?
 
-Wiz is a front-end internal framework made by Google, they used in many products, one of them are: **Google Drive, Google Photos, Google Maps, YouTube, Gmail**.
+Wiz is a front-end internal framework made by Google, they are used in many products, one of them are **Google Drive, Google Photos, Google Maps, YouTube and Gmail**.
 
-Wiz had been used for a while, but we don't know much of them because it is not open source, we know that they have the **Signals** of Angular and a **resumability** feature.
+Wiz had been used for a while, but we don't know much about them because it is not open source, we know that they have the **Signals** of Angular and a **resumability** feature.
 
 ## What we can expect?
 
@@ -28,17 +28,15 @@ We can expect a merge between **Angular** and **Wiz**, adding all the Wiz featur
 
 There's not much information at the moment, that's the official news, but I want to speculate a bit...
 
-I think that this is going to be a huge improvement for Angular, in terms of marketing and performance, Angular it's from Google but we don't know in which products they used, Angular has the potential to be used in many sites and many companies can adopt it, but Google has not done the marketing for it.
+I think that this is going to be a huge improvement for Angular, in terms of marketing and performance, Angular it's from Google but we don't know which products they used, Angular has the potential to be used in many sites and many companies can adopt it, but Google has not done the marketing for it.
 
-Now if Google starts this merge and starts to use Angular in more sites, Angular it's going to have a big impact and it's going to be more popular.
-
-In the other site with this merge maybe Angular will change a little bit its syntax or the way that we have been developing up to now, the releases maybe start to do slowly.
+Now if Google starts this merge and starts to use Angular in more sites, Angular is going to have a big impact and it's going to be more popular. In the other site with this merge maybe Angular will change a little bit its syntax or the way that we have been developing up to now, the releases may start to do slowly.
 
 %[https://twitter.com/sarah_edo/status/1770478763253379488] 
 
 ## Conclusion
 
-It's a great news that Google will do this, I hope it will be a next step for Angular and the community, but we need time to have a look at it, we will wait for the next news about it, I will attach some references about it.
+It's great news that Google will do this, I hope it will be the next step for Angular and the community, but we need time to have a look at it, we will wait for the next news about it, and I will attach some references about it.
 
 Do you like this change? Do you already know Wiz? Let me know in the comments!
 
