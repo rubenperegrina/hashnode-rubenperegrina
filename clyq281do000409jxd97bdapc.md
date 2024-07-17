@@ -1,5 +1,5 @@
 ---
-title: "Goodbye Zone.js: What's New in Angular 18?"
+title: "Goodbye Zone.js: What's new in Angular 18?"
 seoTitle: "Angular 18: What's New Without Zone.js?"
 seoDescription: "Angular 18 introduces a hybrid change detection system, reducing Zone.js dependency, enhancing performance, and adding the new Signals feature"
 datePublished: Wed Jul 17 2024 16:31:40 GMT+0000 (Coordinated Universal Time)
